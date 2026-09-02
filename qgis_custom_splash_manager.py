@@ -9,13 +9,6 @@ The script works on the active QGIS user profile only. QGIS must be restarted
 before a splash-screen change becomes visible.
 """
 
-__version__ = "1.0.0"
-__author__ = "Hemed Lungo"
-__license__ = "MIT"
-__repository__ = (
-    "https://github.com/Heed725/qgis_custom_splash-screen__processing_script"
-)
-
 import json
 import os
 import shutil
